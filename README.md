@@ -5,7 +5,7 @@ I'm Roba, junior dev currently studying software development @ Coder Academy.
 
 - 📫 How to reach me:
 
-📱 linkedin.com/in/roba-elshazly/
+📱 linkedin.com/in/roba-elshazly
 <!--
 **robaElshazly/robaElshazly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
