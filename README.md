@@ -1,5 +1,5 @@
 ### Hi there 👋
-##🌱junior dev currently studying software development @ Coder Academy.
+I'm Roba,junior dev currently studying software development @ Coder Academy.
 
 -🌱 I’m currently learning Ruby On Rails 
 -📫 How to reach me:
