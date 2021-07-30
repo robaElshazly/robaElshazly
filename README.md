@@ -5,9 +5,9 @@ I'm Roba, junior web devevloper currently studying software development @ Coder 
 
 - 📫 How to reach me:
 
-⚡ [https://robaelshazly.tech](robaelshazly.tech) 
+⚡ [robaelshazly.tech](https://robaelshazly.tech) 
 
-📱 [https://linkedin.com/in/roba-elshazly](linkedin.com/in/roba-elshazly)
+📱 [linkedin.com/in/roba-elshazly](https://linkedin.com/in/roba-elshazly)
 <!--
 **robaElshazly/robaElshazly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
