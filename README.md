@@ -1,11 +1,13 @@
 ### Hi there 👋
-I'm Roba, junior dev currently studying software development @ Coder Academy.
+I'm Roba, junior web devevloper currently studying software development @ Coder Academy.
 
 - 🌱 I’m currently learning Ruby On Rails 
 
 - 📫 How to reach me:
 
-📱 linkedin.com/in/roba-elshazly
+⚡ [robaelshazly.tech](robaelshazly.tech) 
+
+📱 [linkedin.com/in/roba-elshazly](linkedin.com/in/roba-elshazly)
 <!--
 **robaElshazly/robaElshazly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
