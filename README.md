@@ -6,7 +6,7 @@ I'm Roba, web devevloper who can solve problems and code well.
 - 🌱 MongoDB and Express
 - 🌱 asp.net (C#) and MSSQL
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 ⚡ [robaelshazly.tech](https://robaelshazly.tech) 
 
