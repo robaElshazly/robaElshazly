@@ -1,7 +1,10 @@
 ### Hi there 👋
-I'm Roba, junior web devevloper currently studying software development @ Coder Academy.
+I'm Roba, web devevloper who can solve problems and code well.
 
-- 🌱 I’m currently learning Ruby On Rails 
+- 🌱 Ruby On Rails 
+- 🌱 ReactJS
+- 🌱 MongoDB and Express
+- 🌱 asp.net (C#) and MSSQL
 
 - 📫 How to reach me:
 
