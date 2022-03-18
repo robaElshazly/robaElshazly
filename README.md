@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Roba, web devevloper who can solve problems and code well.
+I'm Roba, a web devevloper who enjoys coding and solving problems.
 
-- 🌱 Ruby On Rails 
+- 🌱 asp.net (C#) and MSSQL
 - 🌱 ReactJS
 - 🌱 MongoDB and Express
-- 🌱 asp.net (C#) and MSSQL
+
 
 📫 How to reach me:
 
